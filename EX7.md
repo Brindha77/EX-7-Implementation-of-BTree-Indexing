@@ -20,9 +20,10 @@ Else, search the right child of the key.<br>
 
 Step 5: Repeat steps 1 to 4 until the leaf is reached.<br>
 </div>
+
+
 ## PROGRAM:
-  
-  ```python
+```
 # Searching a key on a B-tree in Python
 # Create a node
 class BTreeNode:
